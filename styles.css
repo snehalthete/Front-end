@@ -1,0 +1,61 @@
+/* Resetting default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+.container123
+{
+    margin-top: 2%;
+}
+/* Form container styling */
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/* Headings styling */
+h2 {
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+}
+
+/* Label styling */
+label {
+    font-weight: bold;
+    margin-right: 10%;
+    flex: 1;
+}
+
+/* Button styling */
+button {
+    display: flex;
+
+}
+
+/* Aligning form rows horizontally */
+.form-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-right: 50%;
+}
+#next
+{
+    max-width: 50px;
+    margin-left: 50%;
+}

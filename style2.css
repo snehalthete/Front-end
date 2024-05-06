@@ -1,0 +1,140 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container123
+{
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+/* Form container styling */
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Headings styling */
+h2 {
+    margin-bottom: 20px;
+    color: #333;
+    
+}
+
+/* Label styling */
+label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+/* File input styling */
+input[type="file"] {
+    display: none;
+}
+
+.upload-btn {
+    background-color: #cbced1;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.upload-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Select styling */
+select {
+    padding: 5px;
+    width: 10%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    margin-right: 10px;
+}
+
+/* Submit button styling */
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+/* Aligning form rows horizontally */
+.form-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+        /* Add your CSS styles here */
+        header {
+            padding: 10px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        
+        .profile {
+            display: flex;
+            align-items: center;
+        }
+        
+        .profile img {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            margin-right: 10px;
+        }
+        
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin-left: 20%;
+        }
+        
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        
+        nav ul li a {
+            color: rgb(10, 10, 10);
+            text-decoration: none;
+            font-weight: bold;
+        }
+    
+        #next
+      {
+        max-width: 50px;
+        margin-left: 50%;
+      }
+       
+        
+    
